@@ -39,6 +39,7 @@
         <TextBlock HorizontalAlignment="Center" Grid.Row="3" TextWrapping="Wrap" Text="?" VerticalAlignment="Center" FontSize="36" FontFamily="Times New Roman" RenderTransformOrigin="7.196,0.689" Grid.Column="2" MouseDown="TextBlock_MouseDown"/>
         <TextBlock HorizontalAlignment="Center" Grid.Row="3" TextWrapping="Wrap" Text="?" VerticalAlignment="Center" FontSize="36" FontFamily="Times New Roman" RenderTransformOrigin="7.196,0.689" Grid.Column="3" MouseDown="TextBlock_MouseDown"/>
         <TextBlock x:Name="TimeTextBlock" HorizontalAlignment="Center" Grid.Row="4" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Center" Grid.ColumnSpan="4" MouseDown="TimeTextBlock_MouseDown"/>
+        <TextBlock x:Name="BestTime" HorizontalAlignment="Center" Grid.Row="4" TextWrapping="Wrap" Text="BestTime" VerticalAlignment="Center" RenderTransformOrigin="2.697,0.839"/>
 
     </Grid>
 
